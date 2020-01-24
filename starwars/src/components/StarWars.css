@@ -1,0 +1,18 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: peachpuff;
+    border: 2px solid black;
+    border-radius: 5px;
+    opacity: 0.8;
+    margin-bottom: 2%;
+    
+}
+
+.text{
+        color: black;
+        font-weight: bolder;
+        font-size: 18px;
+        font-family: 'Gayathri', sans-serif;
+}
